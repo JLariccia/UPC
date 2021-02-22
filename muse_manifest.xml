@@ -1,0 +1,693 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www2.unitedplastics.com" resolutions="1x" timestamp="1613771320303">
+  <folder name="css">
+    <file name="site_global.css" crc="3887019196"/>
+    <file name="master_master.css" crc="517276923" ref="index:architectural:terms-and-conditions:technical-information:contact:projects:about-us:industrial:environment:quality"/>
+    <file name="nomq_preview_master_master.css" crc="307875300" ref="index:architectural:terms-and-conditions:technical-information:contact:projects:about-us:industrial:environment:quality"/>
+    <file name="index.css" crc="4229087187" ref="index"/>
+    <file name="nomq_index.css" crc="4237036575" ref="index"/>
+    <file name="iefonts_index.css" crc="364787407" ref="index"/>
+    <file name="architectural.css" crc="4205742087" ref="architectural"/>
+    <file name="nomq_architectural.css" crc="407300652" ref="architectural"/>
+    <file name="iefonts_architectural.css" crc="364787407" ref="architectural"/>
+    <file name="terms-and-conditions.css" crc="4122580014" ref="terms-and-conditions"/>
+    <file name="nomq_terms-and-conditions.css" crc="338059586" ref="terms-and-conditions"/>
+    <file name="iefonts_terms-and-conditions.css" crc="364787407" ref="terms-and-conditions"/>
+    <file name="technical-information.css" crc="365700374" ref="technical-information"/>
+    <file name="nomq_technical-information.css" crc="4146149926" ref="technical-information"/>
+    <file name="iefonts_technical-information.css" crc="364787407" ref="technical-information"/>
+    <file name="contact.css" crc="4135196710" ref="contact"/>
+    <file name="nomq_contact.css" crc="426658592" ref="contact"/>
+    <file name="iefonts_contact.css" crc="364787407" ref="contact"/>
+    <file name="projects.css" crc="4092077692" ref="projects"/>
+    <file name="nomq_projects.css" crc="4270785627" ref="projects"/>
+    <file name="iefonts_projects.css" crc="364787407" ref="projects"/>
+    <file name="about-us.css" crc="38752211" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="36399193" ref="about-us"/>
+    <file name="industrial.css" crc="4028827904" ref="industrial"/>
+    <file name="nomq_industrial.css" crc="197325292" ref="industrial"/>
+    <file name="iefonts_industrial.css" crc="364787407" ref="industrial"/>
+    <file name="environment.css" crc="4055991964" ref="environment"/>
+    <file name="nomq_environment.css" crc="3947616617" ref="environment"/>
+    <file name="iefonts_environment.css" crc="364787407" ref="environment"/>
+    <file name="quality.css" crc="480579876" ref="quality"/>
+    <file name="nomq_quality.css" crc="280181409" ref="quality"/>
+    <file name="iefonts_quality.css" crc="364787407" ref="quality"/>
+  </folder>
+  <folder name="assets">
+    <file name="db3-data-sheet.pdf" crc="3903205966" seo="true" mt="1588351746000"/>
+    <file name="db3-lite-data-sheet.pdf" crc="4061448980" seo="true" mt="1588351746000"/>
+    <file name="db3-max-data-sheet.pdf" crc="296926870" seo="true" mt="1588351746000"/>
+    <file name="db-top-stop-data-sheet.pdf" crc="209013692" seo="true" mt="1588351746000"/>
+    <file name="db-lag-data-sheet.pdf" crc="157640803" seo="true" mt="1556727385000"/>
+    <file name="db-accessories-data-sheet.pdf" crc="239706887" seo="true" mt="1562955149000"/>
+    <file name="db4-lite-data-sheet.pdf" crc="4002298479" seo="true" mt="1607097688000"/>
+    <file name="db4-max-data-sheet.pdf" crc="322812139" seo="true" mt="1613410829000"/>
+    <file name="db4-ceramic-data-sheet.pdf" crc="237320129" seo="true" mt="1561061547000"/>
+    <file name="plastic-profiles_upc-.pdf" crc="534741673" seo="true" mt="1557236975000"/>
+    <file name="plastic-rolls-and-sheets_upc-.pdf" crc="4210632560" seo="true" mt="1556739867000"/>
+    <file name="die-cut-plastic-sheets_upc-.pdf" crc="3793541180" seo="true" mt="1557236914000"/>
+    <file name="db4-lite-detailed-installation.pdf" crc="329099025" seo="true" mt="1559590839000"/>
+    <file name="db3-db3-lite-detailed-installation.pdf" crc="3968997432" seo="true" mt="1562169543000"/>
+    <file name="db4-max-detailed-installation.pdf" crc="3840970247" seo="true" mt="1613410952000"/>
+    <file name="db4-max-db3-max--wall-overlay.pdf" crc="310533644" seo="true" mt="1559330057000"/>
+    <file name="db3-max-detailed-installation.pdf" crc="4203992148" seo="true" mt="1559330286000"/>
+    <file name="top-stop-detailed-installation.pdf" crc="3964232003" seo="true" mt="1559330358000"/>
+    <file name="delta-iic-25_laminate-floor-on-a-concrete-slab_db4-lite.pdf" crc="3845167038" seo="true" mt="1558636308000"/>
+    <file name="iic-56_laminate-floor-on-a-concrete-slab_db4-lite.pdf" crc="3876389382" seo="true" mt="1558636308000"/>
+    <file name="delta-iic-25_hardwood-laminate-on-concrete-slab_db4-max.pdf" crc="453186055" seo="true" mt="1558700670000"/>
+    <file name="iic-51_ceramic-tile-on-concrete-slab_db4-max.pdf" crc="3938729434" seo="true" mt="1558700670000"/>
+    <file name="iic-55_hardwood-on-wood-floor-assembly_db4-max.pdf" crc="98220251" seo="true" mt="1558700670000"/>
+    <file name="iic-55_lvt-on-concrete-slab_db4-max.pdf" crc="179487069" seo="true" mt="1558700670000"/>
+    <file name="iic-57_hardwood-laminate-on-concrete-slab_db4-max.pdf" crc="402874205" seo="true" mt="1558700670000"/>
+    <file name="iic-70_lvt-on-concrete-slab-with-suspended-ceiling_db4-max.pdf" crc="70417185" seo="true" mt="1558700670000"/>
+    <file name="light-commercial-approval_db4-max.pdf" crc="4117197770" seo="true" mt="1558700670000"/>
+    <file name="delta-iic-19_ceramic-tile-on-a-concrete-slab_db4-ceramic.pdf" crc="221875808" seo="true" mt="1558636222000"/>
+    <file name="delta-iic-19_ceramic-tile-on-concrete-slab_db4-ceramic.pdf" crc="221875808" seo="true" mt="1559068638000"/>
+    <file name="iic-48_ceramic-tile-on-a-concrete-slab_db4-ceramic.pdf" crc="240043049" seo="true" mt="1558636222000"/>
+    <file name="stc-38_wood-framed-wall-assembly_db4-ceramic.pdf" crc="4131804260" seo="true" mt="1558636222000"/>
+    <file name="stc-26_material-only_db3_1lb.pdf" crc="3780363704" seo="true" mt="1557927130000"/>
+    <file name="stc-52_metal-framed-wall-assembly_db3_1lb.pdf" crc="415240771" seo="true" mt="1557927130000"/>
+    <file name="stc-56_metal-framed-wall-assembly_db3_1lb.pdf" crc="4185141109" seo="true" mt="1557927130000"/>
+    <file name="stc-62_metal-framed-wall-assembly_db3_1lb.pdf" crc="4056031592" seo="true" mt="1557927130000"/>
+    <file name="stc-22_material-only_db3-lite.pdf" crc="28511745" seo="true" mt="1558635908000"/>
+    <file name="stc-38_wood-framed-wall-assembly_db3-lite.pdf" crc="3827555865" seo="true" mt="1558635908000"/>
+    <file name="stc-52_20-gauge-metal-framed-wall-assembly_db3-lite.pdf" crc="4086238659" seo="true" mt="1558635908000"/>
+    <file name="stc-55_metal-framed-wall-assembly_db3-lite.pdf" crc="170377590" seo="true" mt="1558635908000"/>
+    <file name="stc-26_material-only_db3-max-1-lb.pdf" crc="4185235122" seo="true" mt="1558635548000"/>
+    <file name="stc-46_20-gauge-metal-framed-wall-assembly_db3-max-1lb.pdf" crc="3985024055" seo="true" mt="1558635548000"/>
+    <file name="stc-56_14-gauge-metal-framed-wall-assembly_db3-max-1-lb.pdf" crc="186787668" seo="true" mt="1558635548000"/>
+    <file name="stc-56_18-gauge-metal-framed-wall-assembly_db3-max-1-lb.pdf" crc="503422098" seo="true" mt="1558635548000"/>
+    <file name="stc-57_12-gauge-metal-framed-wall-assembly_db3-max-1-lb.pdf" crc="463173391" seo="true" mt="1558635548000"/>
+    <file name="fire-test-e84_db-lag_1lb.pdf" crc="4073087973" seo="true" mt="1558635430000"/>
+    <file name="pipe-lagging-insertion-loss_db-lab-1lb.pdf" crc="3929577176" seo="true" mt="1558635430000"/>
+    <file name="stc-26_material-only_db-lag-1lb.pdf" crc="3780363704" seo="true" mt="1558635430000"/>
+    <file name="fire-test-e84_top-stop-1lb.pdf" crc="4073087973" seo="true" mt="1558635806000"/>
+    <file name="stc-26_material-only_db-top-stop-1lb.pdf" crc="3780363704" seo="true" mt="1558635806000"/>
+    <file name="1upc-commercial-product-article_2019.pdf" crc="420236221" seo="true" mt="1558530398000"/>
+    <file name="3upc-industrial-product-article_2019.pdf" crc="291849279" seo="true" mt="1558530398000"/>
+    <file name="2upc-industrial-product-article_2019.pdf" crc="3867538775" seo="true" mt="1558530398000"/>
+    <file name="db4-creramic-detailed-installation.pdf" crc="319803042" seo="true" mt="1559330130000"/>
+    <file name="db3-industrial-data-sheet.pdf" crc="4062182591" seo="true" mt="1566239692000"/>
+    <file name="7-17-18---iso-9001-2015-certificate.pdf" crc="4068609324" seo="true" mt="1560265364000"/>
+    <file name="word-spec-db4-lite_2019.docx" crc="4074507120" seo="true" mt="1557926796000"/>
+    <file name="word-spec-db4-max_2019.docx" crc="200012962" seo="true" mt="1557926840000"/>
+    <file name="word-spec-db4-ceramic_2019.docx" crc="339690418" seo="true" mt="1557926734000"/>
+    <file name="word-spec-db3_2019.docx" crc="475654931" seo="true" mt="1557926578000"/>
+    <file name="word-spec-db-top-stop_2019.docx" crc="512799347" seo="true" mt="1557853282000"/>
+    <file name="word-spec-db-lag_2019.docx" crc="3999820526" seo="true" mt="1557795429000"/>
+    <file name="word-spec-db3-max_2019.docx" crc="4207852892" seo="true" mt="1557926505000"/>
+    <file name="word-spec-db3-lite_2019.docx" crc="3885226738" seo="true" mt="1557926679000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="museutils.js" crc="340535759" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="whatinput.js" crc="86476730" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="museconfig.js" crc="310584261" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="webpro.js" crc="4059564322" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="require.js" crc="7928878" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u4240.php" crc="75463603" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="united plastics logo-01.png" crc="33989121" seo="true" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects">
+      <caption webpage="technical-information" alt=""/>
+      <caption webpage="technical-information" alt=""/>
+      <caption webpage="technical-information" alt=""/>
+      <caption webpage="technical-information" alt=""/>
+      <caption webpage="technical-information" alt=""/>
+      <caption webpage="technical-information" alt=""/>
+      <caption webpage="technical-information" alt=""/>
+      <caption webpage="technical-information" alt=""/>
+      <caption webpage="technical-information" alt=""/>
+      <caption webpage="technical-information" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:environment:about-us:contact:quality:architectural:industrial:technical-information:terms-and-conditions:projects"/>
+    <file name="hero-test-1.jpg" crc="4270674720" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons-products.png" crc="87342533" seo="true" ref="index:environment">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+    </file>
+    <file name="hero-manufacturing.jpg" crc="160620287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero-test-2.jpg" crc="4275347735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:projects"/>
+    <file name="hero-test-1-u11032-fr.jpg" crc="4171144316" ref="index"/>
+    <file name="hero-test-1-u11032-fr2.jpg" crc="4178262417" ref="index"/>
+    <file name="hero-environment2.gif" crc="215133103" ref="environment">
+      <caption webpage="environment" alt=""/>
+      <caption webpage="environment" alt=""/>
+    </file>
+    <file name="hero-about2.jpg" crc="259802525" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="pasted-svg-1704x9.svg" crc="81605177" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="pasted svg 1704x9_poster_.png" crc="3889929151" ref="about-us"/>
+    <file name="john-thomas.jpg" crc="4283374893" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="john-bishop.jpg" crc="353594141" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="josh-cox.jpg" crc="3763461459" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="core-values-01.svg" crc="133630318" ref="about-us"/>
+    <file name="core-values-01_poster_u45764.png" crc="477005763" ref="about-us"/>
+    <file name="core-values-03.svg" crc="454297295" ref="about-us"/>
+    <file name="core-values-03_poster_u45950.png" crc="4216038919" ref="about-us"/>
+    <file name="core-values-02.svg" crc="3819859127" ref="about-us"/>
+    <file name="core-values-02_poster_u45942.png" crc="4009665528" ref="about-us"/>
+    <file name="core-values-04.svg" crc="4230591513" ref="about-us"/>
+    <file name="core-values-04_poster_u46069.png" crc="4069230374" ref="about-us"/>
+    <file name="core-values-05.svg" crc="4163463311" ref="about-us"/>
+    <file name="core-values-05_poster_u46077.png" crc="3886249177" ref="about-us"/>
+    <file name="-19-ico_check.svg" crc="79631477" ref="contact"/>
+    <file name="-19-ico_check_poster_u12303.png" crc="79759060" ref="contact"/>
+    <file name="hero-quality.jpg" crc="510274420" ref="quality">
+      <caption webpage="quality" alt=""/>
+    </file>
+    <file name="upc_iso-9001_2015-01.png" crc="497446992" seo="true" ref="quality">
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+      <caption webpage="quality" alt=""/>
+    </file>
+    <file name="hero-db-products-home2.gif" crc="534766016" ref="architectural">
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+      <caption webpage="architectural" alt=""/>
+    </file>
+    <file name="db4-lite.jpg" crc="359939504" seo="true" ref="architectural">
+      <caption webpage="architectural" alt="lightweight acoustic underlayment for blocking sound"/>
+      <caption webpage="architectural" alt="lightweight acoustic underlayment for blocking sound"/>
+      <caption webpage="architectural" alt="lightweight acoustic underlayment for blocking sound"/>
+      <caption webpage="architectural" alt="lightweight acoustic underlayment for blocking sound"/>
+      <caption webpage="architectural" alt="lightweight acoustic underlayment for blocking sound"/>
+    </file>
+    <file name="db4-max.jpg" crc="4232293758" seo="true" ref="architectural">
+      <caption webpage="architectural" alt="subfloor sound isolation"/>
+      <caption webpage="architectural" alt="subfloor sound isolation"/>
+      <caption webpage="architectural" alt="subfloor sound isolation"/>
+      <caption webpage="architectural" alt="subfloor sound isolation"/>
+      <caption webpage="architectural" alt="subfloor sound isolation"/>
+    </file>
+    <file name="db3.jpg" crc="503138951" seo="true" ref="architectural">
+      <caption webpage="architectural" alt="damp noise across sound spectrum"/>
+      <caption webpage="architectural" alt="damp noise across sound spectrum"/>
+      <caption webpage="architectural" alt="damp noise across sound spectrum"/>
+      <caption webpage="architectural" alt="damp noise across sound spectrum"/>
+      <caption webpage="architectural" alt="damp noise across sound spectrum"/>
+    </file>
+    <file name="db3-lite.jpg" crc="3799201667" seo="true" ref="architectural">
+      <caption webpage="architectural" alt="tough, flexible mass loaded vinyl"/>
+      <caption webpage="architectural" alt="tough, flexible mass loaded vinyl"/>
+      <caption webpage="architectural" alt="tough, flexible mass loaded vinyl"/>
+      <caption webpage="architectural" alt="tough, flexible mass loaded vinyl"/>
+      <caption webpage="architectural" alt="tough, flexible mass loaded vinyl"/>
+    </file>
+    <file name="db3-max.jpg" crc="176751404" seo="true" ref="architectural">
+      <caption webpage="architectural" alt="acoustic material and impact isolator"/>
+      <caption webpage="architectural" alt="acoustic material and impact isolator"/>
+      <caption webpage="architectural" alt="acoustic material and impact isolator"/>
+      <caption webpage="architectural" alt="acoustic material and impact isolator"/>
+      <caption webpage="architectural" alt="acoustic material and impact isolator"/>
+    </file>
+    <file name="db-lag.jpg" crc="4057131339" seo="true" ref="architectural">
+      <caption webpage="architectural" alt="minimizing airborne noise from mechanical systmes "/>
+      <caption webpage="architectural" alt="minimizing airborne noise from mechanical systmes "/>
+      <caption webpage="architectural" alt="minimizing airborne noise from mechanical systmes "/>
+      <caption webpage="architectural" alt="minimizing airborne noise from mechanical systmes "/>
+      <caption webpage="architectural" alt="minimizing airborne noise from mechanical systmes "/>
+    </file>
+    <file name="db-top-stop.jpg" crc="113685801" seo="true" ref="architectural">
+      <caption webpage="architectural" alt="multi layer high-performance sound blocking barrier"/>
+      <caption webpage="architectural" alt="multi layer high-performance sound blocking barrier"/>
+      <caption webpage="architectural" alt="multi layer high-performance sound blocking barrier"/>
+      <caption webpage="architectural" alt="multi layer high-performance sound blocking barrier"/>
+      <caption webpage="architectural" alt="multi layer high-performance sound blocking barrier"/>
+    </file>
+    <file name="db-accessories.jpg" crc="105255310" seo="true" ref="architectural">
+      <caption webpage="architectural" alt="adhesives, tapes and putty enhance performance of soundproofing products "/>
+      <caption webpage="architectural" alt="adhesives, tapes and putty enhance performance of soundproofing products "/>
+      <caption webpage="architectural" alt="adhesives, tapes and putty enhance performance of soundproofing products "/>
+      <caption webpage="architectural" alt="adhesives, tapes and putty enhance performance of soundproofing products "/>
+      <caption webpage="architectural" alt="adhesives, tapes and putty enhance performance of soundproofing products "/>
+    </file>
+    <file name="hero-upc-products.jpg" crc="516480441" ref="industrial">
+      <caption webpage="industrial" alt=""/>
+    </file>
+    <file name="plastic-profiles.jpg" crc="4126704451" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="Plastic Profiles, custom compounding, in-house, die capabilities, welding, punching"/>
+    </file>
+    <file name="plastic-roll.jpg" crc="484364869" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="polymers, surface textures, unique customer requests, color matching, automotive industry"/>
+    </file>
+    <file name="die-cut.jpg" crc="4005208971" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="color matching, variety, surface textures, automotive industry"/>
+    </file>
+    <file name="db-3-industrial.jpg" crc="344724808" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="Reduce noise transmission, industrial, commercial, construction, mass loaded vinyl, accoustic, foam, insulation "/>
+    </file>
+    <file name="plastic-profiles-crop-u25905.jpg" crc="201040226" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="Plastic Profiles, custom compounding, in-house, die capabilities, welding, punching"/>
+    </file>
+    <file name="plastic-roll-crop-u25910.jpg" crc="3925709750" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="polymers, surface textures, unique customer requests, color matching, automotive industry"/>
+    </file>
+    <file name="die-cut-crop-u39213.jpg" crc="166931164" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="color matching, variety, surface textures, automotive industry"/>
+    </file>
+    <file name="db-3-industrial-crop-u44897.jpg" crc="155541426" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="Reduce noise transmission, industrial, commercial, construction, mass loaded vinyl, accoustic, foam, insulation "/>
+    </file>
+    <file name="plastic-profiles-crop-u259052.jpg" crc="256672746" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="Plastic Profiles, custom compounding, in-house, die capabilities, welding, punching"/>
+    </file>
+    <file name="plastic-roll-crop-u259102.jpg" crc="3955661249" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="polymers, surface textures, unique customer requests, color matching, automotive industry"/>
+    </file>
+    <file name="die-cut-crop-u392132.jpg" crc="3822228716" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="color matching, variety, surface textures, automotive industry"/>
+    </file>
+    <file name="db-3-industrial-crop-u448972.jpg" crc="4233491431" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="Reduce noise transmission, industrial, commercial, construction, mass loaded vinyl, accoustic, foam, insulation "/>
+    </file>
+    <file name="plastic-profiles-crop-u259053.jpg" crc="4048080866" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="Plastic Profiles, custom compounding, in-house, die capabilities, welding, punching"/>
+    </file>
+    <file name="plastic-roll-crop-u259103.jpg" crc="433302506" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="polymers, surface textures, unique customer requests, color matching, automotive industry"/>
+    </file>
+    <file name="die-cut-crop-u392133.jpg" crc="4218825453" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="color matching, variety, surface textures, automotive industry"/>
+    </file>
+    <file name="db-3-industrial-crop-u448973.jpg" crc="4099955563" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="Reduce noise transmission, industrial, commercial, construction, mass loaded vinyl, accoustic, foam, insulation "/>
+    </file>
+    <file name="plastic-profiles301x301.jpg" crc="443472883" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="Plastic Profiles, custom compounding, in-house, die capabilities, welding, punching"/>
+    </file>
+    <file name="plastic-roll301x301.jpg" crc="253285326" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="polymers, surface textures, unique customer requests, color matching, automotive industry"/>
+    </file>
+    <file name="die-cut301x301.jpg" crc="4094331565" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="color matching, variety, surface textures, automotive industry"/>
+    </file>
+    <file name="db-3-industrial301x301.jpg" crc="4123056317" seo="true" ref="industrial">
+      <caption webpage="industrial" alt="Reduce noise transmission, industrial, commercial, construction, mass loaded vinyl, accoustic, foam, insulation "/>
+    </file>
+    <file name="hero-specs.jpg" crc="4003649369" ref="technical-information">
+      <caption webpage="technical-information" alt=""/>
+    </file>
+    <file name="hero-specs-u40316-fr.jpg" crc="76670440" ref="technical-information"/>
+    <file name="hero-specs-u40316-fr2.jpg" crc="68653532" ref="technical-information"/>
+    <file name="hero-specs-u40316-fr3.jpg" crc="280329473" ref="technical-information"/>
+    <file name="hero-specs-u40316-fr4.jpg" crc="3971045861" ref="technical-information"/>
+    <file name="hero-about.jpg" crc="4116943623" ref="terms-and-conditions">
+      <caption webpage="terms-and-conditions" alt=""/>
+    </file>
+    <file name="hero-about-u46490-fr.jpg" crc="4240773381" ref="terms-and-conditions"/>
+    <file name="hero-about-u46490-fr2.jpg" crc="418862609" ref="terms-and-conditions"/>
+    <file name="hero-about-u46490-fr3.jpg" crc="506922722" ref="terms-and-conditions"/>
+    <file name="hero-about-u46490-fr4.jpg" crc="4087824802" ref="terms-and-conditions"/>
+    <file name="hero-gallery.jpg" crc="4090793584" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="opt_santalmain.jpg" crc="4284966399" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="opt_santalmain2.jpg" crc="319523634" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="opt_santalmain3.jpg" crc="437847130" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="opt_santalmain4.jpg" crc="46453114" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="osteria_mattone_1.jpg" crc="4184705103" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="osteria_mattone_2.jpg" crc="419509445" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="osteria_mattone_3.jpg" crc="81421917" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="osteria_mattone_4.jpg" crc="4061012109" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="856446-condominium-12ewuj8-o.jpg" crc="4055287895" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="856446-condominium-dj8v7r-o.jpg" crc="525021585" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="valencia_front.jpg" crc="3784696885" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="valencia_living_room.jpg" crc="136022174" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="drake-11.jpg" crc="4031567495" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="drake-exterior.jpg" crc="188429351" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="drake.jpg" crc="204129613" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="drake2.jpg" crc="273370217" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="harper-1.jpg" crc="3820583993" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="harper-9.jpg" crc="220513914" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="harper-13.jpg" crc="530786199" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="harper-exterior.jpg" crc="4081346886" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="brownstone.jpg" crc="3931556164" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="brownstone2.jpg" crc="59738790" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="brownstone3.jpg" crc="388186925" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="brownstone4.jpg" crc="401547015" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="hero-gallery-u47496-fr.jpg" crc="3799032652" ref="projects"/>
+    <file name="hero-gallery-u47496-fr2.jpg" crc="3918501319" ref="projects"/>
+    <file name="hero-gallery-u47496-fr3.jpg" crc="4272286339" ref="projects"/>
+    <file name="hero-gallery-u47496-fr4.jpg" crc="4278186987" ref="projects"/>
+    <file name="opt_santalmain320x240.jpg" crc="4103226671" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="opt_santalmain2320x240.jpg" crc="3916535322" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="opt_santalmain3320x240.jpg" crc="3814801129" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="opt_santalmain4320x240.jpg" crc="214064099" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="856446-condominium-12ewuj8-o320x240.jpg" crc="277541680" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="856446-condominium-dj8v7r-o320x240.jpg" crc="3982094563" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="valencia_front320x240.jpg" crc="4275698601" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="valencia_living_room320x240.jpg" crc="4170517364" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="harper-1320x240.jpg" crc="491028995" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="harper-9320x240.jpg" crc="337224355" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="harper-13320x240.jpg" crc="4024064407" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="harper-exterior320x240.jpg" crc="4194324846" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="osteria_mattone_1320x240.jpg" crc="349439405" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="osteria_mattone_2320x240.jpg" crc="4134212074" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="osteria_mattone_3320x240.jpg" crc="3930986607" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="osteria_mattone_4320x240.jpg" crc="335309526" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="drake-11320x240.jpg" crc="528998739" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="drake-exterior320x240.jpg" crc="469961865" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="drake320x240.jpg" crc="4046104413" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="drake2320x240.jpg" crc="3828833637" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="brownstone320x240.jpg" crc="4000838785" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="brownstone2320x240.jpg" crc="197117657" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="brownstone3320x240.jpg" crc="332658527" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="brownstone4320x240.jpg" crc="4035932907" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="487082284" seo="true" mt="1613576584679" redirect="true"/>
+  <file name="environment.html" crc="4072918517" seo="true" mt="1613423607947" redirect="true"/>
+  <file name="about-us.html" crc="273520920" seo="true" mt="1613512227313" redirect="true"/>
+  <file name="contact.html" crc="4228476175" seo="true" mt="1613423607947" redirect="true"/>
+  <file name="quality.html" crc="4082071292" seo="true" mt="1613423607947" redirect="true"/>
+  <file name="architectural.html" crc="3946537256" seo="true" mt="1613423607947" redirect="true"/>
+  <file name="industrial.html" crc="238996761" seo="true" mt="1613423607947" redirect="true"/>
+  <file name="technical-information.html" crc="386325381" seo="true" mt="1613423607947" redirect="true"/>
+  <file name="terms-and-conditions.html" crc="3859006110" seo="true" mt="1613423607947" redirect="true"/>
+  <file name="projects.html" crc="4016650920" seo="true" mt="1613423607947" redirect="true"/>
+</manifest>
